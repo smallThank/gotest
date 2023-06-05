@@ -1,4 +1,4 @@
-module github.com/smallThank/gotest
+module github.com/smallThank/gotest/v2
 
 go 1.20
 
